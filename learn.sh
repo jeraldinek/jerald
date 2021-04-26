@@ -1,4 +1,2 @@
-#!/bin/bash
-
-Author:jj
-echo "what is your name"
+# learn.sh
+this repersitory is to store bash shell script
