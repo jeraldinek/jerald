@@ -1,4 +1,3 @@
-# learn.sh
 #!/bin/bash
 # use this for your user data ( script from top to bottom)
 # install httpd ( linux 2 version)
